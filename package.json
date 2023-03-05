@@ -28,5 +28,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "React 0.14.8 Test App",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prradox/react14.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prradox/react14/issues"
+  },
+  "homepage": "https://github.com/prradox/react14#readme"
 }
